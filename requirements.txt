@@ -1,0 +1,11 @@
+pandas
+stremlit
+openpyxl
+seaborn
+matplotlib
+
+pandas
+stremlit
+openpyxl
+seaborn
+matplotlib
